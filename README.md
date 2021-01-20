@@ -1,4 +1,4 @@
-Simple project of webpage of bakery. &nbsp
+Simple project of webpage of bakery.
 You can order some products etc. 
 There is a session functionality, so you can login and logout on accounts of different clients. 
 Here is login data: 
